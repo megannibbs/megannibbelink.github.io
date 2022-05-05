@@ -23,6 +23,10 @@ h1 {
     font-size: 3em;
     font-family:'Consolas';
 }
+h2 {
+    font-size: 2em;
+    font-family:'Arial';
+}
 p {
     font-size: 1.5em;
     font-family: 'Arial';
