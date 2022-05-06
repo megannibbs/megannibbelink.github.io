@@ -6,7 +6,9 @@ nav ul, footer ul {
     font-family:'Consolas', 'monaco', 'monospace';
     padding: 0px;
     list-style: none;
+    text-decoration: none;
     font-weight: bold;
+    color: 'rgb(100, 149, 237)'
 }
 nav ul li, footer ul li {
     display: inline;
