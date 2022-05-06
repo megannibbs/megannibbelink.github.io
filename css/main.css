@@ -4,7 +4,7 @@ body {
 }
 nav ul, footer ul {
     font-family:'Consolas', 'monaco', 'monospace';
-    color: #728FCE;
+    color: #6698FF;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -42,7 +42,7 @@ p {
     font-weight: 250;
 }
 footer {
-    border-top: 1px solid #d16587;
+    border-top: 1px solid #D16587;
     font-size: .8em;
 }
 
