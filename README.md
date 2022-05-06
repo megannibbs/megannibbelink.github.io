@@ -6,3 +6,4 @@ Resources for building this site:
 
 Other markdown and HTML code sources: 
 1. https://about.gitlab.com/handbook/markdown-guide/#font-awesome
+2. https://www.quackit.com/css/css_color_codes.cfm
