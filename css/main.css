@@ -1,3 +1,7 @@
+header {
+    border-top: 1px solid #c95a49;
+    font-size: .8em;
+}
 body {
     margin: 60px auto;
     width: 70%;
