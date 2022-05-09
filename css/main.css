@@ -72,3 +72,6 @@ ul.posts li {
   display: table;
   clear: both;
 }
+img.rounded-corners {
+  border-radius: 30px;
+}
