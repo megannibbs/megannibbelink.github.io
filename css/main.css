@@ -1,6 +1,10 @@
-header{ 
-	background: ('./images/fern.jpg'); 
+.top-header { 
+	width: 100%; 
+	background-image: ../images/fern.jpg; 
+	background-size: cover; 
+	background-position: center; 
 } 
+
 body {
     margin: 60px auto;
     width: 70%;
