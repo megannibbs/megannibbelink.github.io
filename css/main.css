@@ -75,3 +75,6 @@ ul.posts li {
 img.rounded-corners {
   border-radius: 30px;
 }
+img.border {
+  border: 5px solid #c95a49;
+}
