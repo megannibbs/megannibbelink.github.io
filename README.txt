@@ -1,5 +1,7 @@
 # megannibbelink.github.io
 
+This repository is licensed under the terms of the MIT license.
+
 Resources for building this site: 
 1. http://jmcglone.com/guides/github-pages/
 2. https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
