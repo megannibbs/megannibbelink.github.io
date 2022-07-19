@@ -51,7 +51,7 @@ h4 {
 h5 {
     font-size: 1em;
     color: #2B2E2F;
-    font-family:'Consolas', 'monaco', 'monospace';
+    font:'Consolas';
     line-height: 1.4em;
 }
 p {
