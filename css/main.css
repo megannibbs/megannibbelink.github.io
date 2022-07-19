@@ -48,6 +48,12 @@ h4 {
     font-family:'Consolas', 'monaco', 'monospace';
     line-height: 1.4em;
 }
+h5 {
+    font-size: 1em;
+    color: #2B2E2F;
+    font-family:'Consolas', 'monaco', 'monospace';
+    line-height: 1.4em;
+}
 p {
     font-size: 1.5em;
     color: #2B2E2F;
